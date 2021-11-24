@@ -8,6 +8,7 @@ params, body, and auth token are optional
 
 ```js
 { 
+  url: <the url you want to make your request to>
   method: <http method>, 
   params: <object containing key value pairs>, 
   body: <valid JSON>, 
