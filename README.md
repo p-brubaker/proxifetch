@@ -1,6 +1,6 @@
 # proxifetch
 
-A simple proxy server to get around annoying cors issues encountered during student projects
+A simple proxy server to get around annoying cors issues encountered while making api requests from the browser while working on student projects.
 To set up your own, fork this repo and deploy it to heroku, 
 then make a post request to your Heroku app's url and provide the following object as the body.
 
