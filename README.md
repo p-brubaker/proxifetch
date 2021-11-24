@@ -6,6 +6,9 @@ then make a post request to your Heroku app's url and provide the following obje
 
 params, body, and auth token are optional
 
+If you would rather just use my active proxy server than go through the steps of setting one up,
+ask me for the url.
+
 ```js
 { 
   url: <the url you want to make your request to>
