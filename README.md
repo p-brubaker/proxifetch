@@ -7,5 +7,10 @@ then make a post request to your Heroku app's url and provide the following obje
 params, body, and auth token are optional
 
 ```js
-{ method: <http method>, params: <object containing key value pairs>, body: <valid JSON>, token: <auth token> }
+{ 
+  method: <http method>, 
+  params: <object containing key value pairs>, 
+  body: <valid JSON>, 
+  token: <auth token> 
+}
 ```
